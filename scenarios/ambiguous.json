@@ -1,0 +1,1 @@
+{"scenario":"ambiguous","requirement":"Make links safer and more useful.","expected_terminal_state":"awaiting_clarification","demonstrates":["ambiguity detection","clarification questions","safe stop before implementation"]}

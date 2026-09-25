@@ -1,0 +1,1 @@
+{"scenario":"brownfield","requirement":"Add custom aliases to the existing shortener while preserving API compatibility.","expected_terminal_state":"awaiting_approval","demonstrates":["existing-module impact assessment","compatibility review","high-impact human approval","rollback plan"]}

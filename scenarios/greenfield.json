@@ -1,0 +1,1 @@
+{"scenario":"greenfield","requirement":"Add expiring short links and click analytics.","expected_terminal_state":"awaiting_approval","demonstrates":["parallel design/security/test planning","synchronization gate","validation","human release approval"]}
