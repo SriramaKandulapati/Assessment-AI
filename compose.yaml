@@ -1,0 +1,12 @@
+services:
+  shortener:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_PATH: /data/shortener.db
+      BASE_URL: http://localhost:8000
+    volumes:
+      - shortener_data:/data
+volumes:
+  shortener_data:
